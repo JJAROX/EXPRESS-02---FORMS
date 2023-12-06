@@ -1,0 +1,15 @@
+#tlostrony {
+  width: 100%;
+  height: 75px;
+  border: 2px solid gray;
+  background-color: rgb(146, 246, 47);
+
+}
+
+h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+form {
+  margin: 20px;
+}
